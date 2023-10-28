@@ -1,7 +1,7 @@
 # movie-search
 
-sample movie list &amp; detail feature using react router &amp; hooks
+sample movie search using react router &amp; hooks
 
 -   react router
--   useState hook
--   useEffect hook
+-   react hooks : useState, useEffect
+-   custom css styles

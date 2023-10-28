@@ -1,10 +1,21 @@
 {
-	"name": "job-search",
-	"version": "1.0.0",
-	"author": "toweringcloud",
-	"description": "nomadcoders react beginner final project",
-	"homepage": "https://nomadcoders.co/react-for-beginners",
+	"name": "movie-search",
+	"version": "0.1.0",
+	"description": "sample movie search using react router & hooks",
 	"license": "MIT",
+	"author": "toweringcloud",
+	"homepage": "https://github.com/toweringcloud/movie-search",
+	"inspiredby": "https://nomadcoders.co/react-for-beginners",
+	"keywords": [
+		"vanillajs",
+		"react",
+		"hooks",
+		"movie",
+		"search",
+		"list",
+		"detail"
+	],
+	"type": "module",
 	"scripts": {
 		"start": "set NODE_OPTIONS=--openssl-legacy-provider && react-scripts start",
 		"build": "set NODE_OPTIONS=--openssl-legacy-provider && react-scripts build",
